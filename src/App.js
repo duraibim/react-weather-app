@@ -11,11 +11,11 @@ function App() {
         <footer>
         This project was coded by Manal Alduraibi🐞 and is Open-sourced on {""} 
           <a
-            href=".." 
+            href="https://github.com/duraibim/react-weather-app" 
             target="_blank"
             rel="noopener noreferrer"
           >  GitHub</a> and hosted on <a
-          href=".." 
+          href="https://thirsty-allen-71d06d.netlify.app" 
           target="_blank"
           rel="noopener noreferrer"
         > Netlify</a> 
